@@ -1,16 +1,21 @@
 _repo: De-vlegeljaren-van-Pietje-Bell_58563
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Jan Rinke (1863-1922)
     gutenberg_agent_id: '50031'
     url: http://www.gutenberg.org/2009/agents/50031
+covers:
+- cover_type: archival
+  image_path: 58563-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Chris van Abkoude (1880-1960)
     gutenberg_agent_id: '50030'
     url: http://www.gutenberg.org/2009/agents/50030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58563#De-vlegeljaren-van-Pietje-Bell
 gutenberg_issued: '2018-12-29'
 gutenberg_type: Text
 identifiers:
