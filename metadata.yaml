@@ -1,0 +1,25 @@
+_repo: De-vlegeljaren-van-Pietje-Bell_58563
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jan Rinke (1863-1922)
+    gutenberg_agent_id: '50031'
+    url: http://www.gutenberg.org/2009/agents/50031
+creator:
+  author:
+    agent_name: Chris van Abkoude (1880-1960)
+    gutenberg_agent_id: '50030'
+    url: http://www.gutenberg.org/2009/agents/50030
+description: ''
+gutenberg_issued: '2018-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58563'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De vlegeljaren van Pietje Bell
+url: http://www.gutenberg.org/ebooks/58563
